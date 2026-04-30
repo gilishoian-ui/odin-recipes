@@ -1,1 +1,24 @@
-
+ <style>
+       .centerimage, .skyimage, .afterimage{
+               display: block;
+               margin-left: auto;
+               margin-right: auto;
+           h1{
+               text-align: center;
+               font-size: larger;
+               font-weight: 700;
+               margin: 12px;
+           }
+            p, ol, ul{
+            background-color: rgb(252, 251, 248);
+            font-size: smaller;
+            font-family: cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-weight: 200;
+            font-style: inherit;
+            font-weight: 700;
+            margin: 12px;
+             }
+      title{
+        color: black;
+        text-align: center;
+      }
